@@ -1,0 +1,41 @@
+.ui-main-container {
+  text-align: center;
+  margin-top: 18%;
+  z-index: 1;
+  position: absolute;
+}
+
+.hero-img{
+  height: 250px;
+  width: 250px;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+
+.hero-name{
+  font-family: 'Dancing Script', cursive;
+  color:rgb(255, 255, 255);
+  padding: 10px 0px 10px 0px;
+}
+
+.hero-title{
+  font-family: 'Dancing Script', cursive;
+  color: rgba(255,255,255,0.7);
+
+}
+
+.hero-dis{
+  color: rgba(255,255,255,0.7);
+  font-weight: 300;
+  padding: 10px 0px 10px 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.particless-css {
+  height: 100vh;
+  width: 100%;
+  background-image: url('https://www.setaswall.com/wp-content/uploads/2017/03/Artistic-4K-Wallpaper-3840x2160.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
